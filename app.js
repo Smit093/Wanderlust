@@ -40,7 +40,7 @@ app.engine("ejs", ejsMate);
 
 
 async function main() {
-    await mongoose.connect(dbUrl);
+    await mongoose.connect(mongoUrl);
 }
 
 app.listen(3000, () => {
