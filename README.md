@@ -59,22 +59,8 @@ Once the application is running, users can:
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to all the resources and tutorials that helped in building this project. For further learning on full-stack development, consider exploring related courses and documentation.
 
 ---
-
-Feel free to customize any sections according to your preferences or add more details as needed!
-
-Citations:
-[1] https://wanderlust.github.io/wl-docs/wl.html
-[2] https://www.geeksforgeeks.org/how-to-add-images-to-readmemd-on-github/
-[3] https://www.youtube.com/watch?v=NVibWKkon74
-[4] https://www.youtube.com/watch?v=lS65X0U1rp4
-[5] https://www.youtube.com/watch?v=9dwyXq9G_MQ
-[6] https://www.youtube.com/watch?v=hHbWF1Bvgf4
-[7] https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository/10189374
-[8] https://www.geeksforgeeks.org/integrating-django-with-reactjs-using-django-rest-framework/
